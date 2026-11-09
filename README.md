@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-03 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-04 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-03 | [solution](problems/0007-matrix-transformation) |
+| [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-09 | [solution](problems/0020-decision-tree-learning) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-04 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ---
