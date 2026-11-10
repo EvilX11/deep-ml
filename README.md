@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 10 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-03 | [solution](problems/0007-matrix-transformation) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-09 | [solution](problems/0020-decision-tree-learning) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-04 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-10 | [solution](math/0010-matrix-multiplication) |
 
 ---
 
