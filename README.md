@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 15 problems · 0 labs · 5 math
+**21** solved · 16 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-12 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-10 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-03 | [solution](problems/0007-matrix-transformation) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-17 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-09 | [solution](problems/0020-decision-tree-learning) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-04 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
