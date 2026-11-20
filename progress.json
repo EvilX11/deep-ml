@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:55:33.430Z",
+  "generated_at": "2026-11-20T14:42:00.306Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -359,6 +359,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-11-20T06:55:32.507Z",
       "last_pushed_at": "2026-11-20T06:55:32.507Z"
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-11-20T14:41:10.901Z",
+      "last_pushed_at": "2026-11-20T14:41:10.901Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
